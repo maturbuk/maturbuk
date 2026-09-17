@@ -20,17 +20,27 @@ Mas às vezes meus protótipos começam a funcionar. 🤷‍♀️
 
 ### Uso praticamente todo dia
 
-**Figma · Adobe Illustrator · Photoshop**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" />
+</p>
 
 ### Sei o suficiente só para causar problemas
 
-**React · Flutter · HTML · CSS · JavaScript · Canvas**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,html,css" />
+</p>
+
+E, muito eventualmente, quando não tem como escapar...
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js" />
+</p>
 
 ### Meus colegas robóticos 🤖
 
-Uso IA generativa para ideação, pesquisa, prototipação e criação de aplicações.
+Uso IA generativa para ideação, pesquisa, prototipação e experimentação.
 
-Eu penso a aplicação, seus fluxos, requisitos, regras e interface.
+Eu penso a aplicação, seus fluxos, requisitos, regras e interface.  
 A IA ajuda a construir — e eu verifico se ela não inventou moda.
 
 ---
@@ -59,6 +69,71 @@ A IA ajuda a construir — e eu verifico se ela não inventou moda.
 🏢 Funcionalismo público  
 
 🔧 **Pereirão da casa** — porque numa casa só de mulheres alguém tem que saber usar a furadeira.
+
+---
+
+## 🧪 Projetos e coisas que eu faço
+
+Nem tudo aqui vira software. Às vezes vira identidade visual, protótipo,
+sistema de design, estudo, pesquisa ou alguma ideia que foi longe demais.
+
+### 🎨 Identidade visual
+
+Marcas, sistemas gráficos, aplicações institucionais e organização visual
+para projetos que precisam parecer que pertencem ao mesmo universo.
+
+### 🧩 Design Systems
+
+Componentes, padrões, tokens, documentação e aquela eterna tentativa
+de impedir que cada tela invente seu próprio botão.
+
+### 📱 UX/UI e protótipos
+
+Fluxos, wireframes, interfaces e protótipos de portais, sistemas e aplicativos.
+
+Alguns ficam felizes no Figma.  
+Outros, por algum motivo, começam a funcionar.
+
+### 🤖 Aplicações com IA generativa
+
+Uso IA para me ajudar a transformar fluxos e protótipos em aplicações,
+principalmente quando quero testar uma ideia além da interface.
+
+Não considero isso “programar tudo do zero”.
+
+Considero mais algo como:
+
+**eu desenho o mapa, explico as regras e supervisiono os robôs.**
+
+### 🛡️ Heráldica & Vexilologia
+
+Brasões, bandeiras, simbologia, pesquisa visual e aquele tipo de detalhe
+que faz uma pessoa normal perguntar:
+
+*"mas você precisava mesmo pesquisar isso tudo?"*
+
+Sim.
+
+### 📖 Storytelling & projetos conceituais
+
+Narrativas, construção de universos visuais, conceitos, apresentações
+e projetos em que design não é só deixar alguma coisa bonita,
+mas explicar por que ela existe.
+
+---
+
+### ⭐ Algumas coisas que merecem um lugar aqui
+
+Ainda estou organizando a bagunça.
+
+Em breve este espaço terá projetos, estudos de caso,
+experimentos e outras coisas que sobreviveram ao meu Figma.
+
+--- 
+
+## 🌐 Onde me encontrar
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK_DO_INSTAGRAM)
 
 ---
 
