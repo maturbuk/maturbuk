@@ -16,6 +16,43 @@ Mas às vezes meus protótipos começam a funcionar. 🤷‍♀️
 
 ---
 
+## 🏙️ Projeto em Destaque — Ivaitá-SP
+
+<p align="center">
+  <a href="https://github.com/maturbuk/Identidade-Visual-de-Ivait---SP">
+    <img src="https://raw.githubusercontent.com/maturbuk/Identidade-Visual-de-Ivait---SP/main/simbolos-municipais/brasao-municipal.png" alt="Brasão de Ivaitá-SP" width="150px">
+  </a>
+</p>
+
+<h3 align="center">Ivaitá — SP</h3>
+
+<p align="center">
+  <strong>Uma cidade fictícia. Um universo completo.</strong>
+</p>
+
+<p align="center">
+  Worldbuilding · Identidade Visual · Storytelling · Design · IA Generativa · Audiovisual · UX/UI · Desenvolvimento
+</p>
+
+**Ivaitá-SP** é um projeto multidisciplinar no qual desenvolvo uma cidade fictícia do interior paulista com a coerência histórica, visual, cultural, institucional e digital de um município real.
+
+O projeto integra **worldbuilding, direção de arte, identidade visual, storytelling, comunicação, fotografia, audiovisual, UX/UI e desenvolvimento de software** dentro de um mesmo cânone.
+
+A cidade possui história, território, bairros e distritos, patrimônio, famílias, tradições, símbolos municipais, sistema de transporte, campanhas públicas, turismo, serviços e produtos digitais próprios.
+
+O trabalho combina **direção criativa e ferramentas tradicionais**, como Adobe Illustrator, Photoshop, Figma, Movavi e Visual Studio Code, com **IA generativa aplicada a texto, imagem, vídeo, áudio e desenvolvimento**.
+
+<p align="center">
+  <a href="https://github.com/maturbuk/Identidade-Visual-de-Ivait---SP"><strong>📂 Explorar o Projeto</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://ivaita-portal.pages.dev/"><strong>🌐 Plataforma Digital</strong></a>
+</p>
+
+
+
+---
+
+
 ## 🧰 Caixa de ferramentas
 
 ### Uso praticamente todo dia
