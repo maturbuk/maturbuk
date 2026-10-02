@@ -161,10 +161,34 @@ mas explicar por que ela existe.
 
 ### ⭐ Algumas coisas que merecem um lugar aqui
 
-Ainda estou organizando a bagunça.
+**Projetos, experimentos e ideias que foram longe demais para continuar escondidos em alguma pasta.**
 
-Em breve este espaço terá projetos, estudos de caso,
-experimentos e outras coisas que sobreviveram ao meu Figma.
+#### 🏙️ Ivaitá — SP
+
+Uma cidade fictícia do interior paulista que começou como um projeto de identidade visual e, em algum momento, ganhou **história, território, símbolos, patrimônio, campanhas, fotografia, audiovisual, UX/UI, plataforma digital e aplicativo próprio**.
+
+É meu laboratório para misturar **worldbuilding, storytelling, direção de arte, design, IA generativa e tecnologia** dentro de um mesmo universo.
+
+[📂 **Explorar o projeto →**](https://github.com/maturbuk/Identidade-Visual-de-Ivait---SP)  
+[🌐 **Visitar Ivaitá →**](https://ivaita-portal.pages.dev/)
+
+---
+
+#### 📖 Teologia Reversa
+
+Um estudo sobre **contradições, tensões narrativas e diferentes versões presentes nos textos bíblicos**, desenvolvido a partir de pesquisa, comparação de passagens e organização da informação.
+
+Não é um projeto sobre dizer no que alguém deve acreditar — é sobre **olhar para o texto, fazer perguntas e investigar o que acontece quando diferentes trechos são colocados lado a lado**.
+
+> ⚠️ Contém análise crítica de textos religiosos.  
+> Textos e ideias podem ser questionados. Pessoas, não.
+
+[📚 **Conhecer o projeto →**](https://github.com/maturbuk/Teologia-Reversa)  
+[🌐 **Explorar Teologia Reversa →**](https://maturbuk.github.io/Teologia-Reversa/)
+
+---
+
+**A bagunça continua sendo organizada. Só que agora algumas coisas já têm README.**
 
 --- 
 
