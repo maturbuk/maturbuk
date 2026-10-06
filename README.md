@@ -139,20 +139,13 @@ Não é um projeto sobre dizer no que alguém deve acreditar — é sobre **olha
 
 ---
 
-#### 🥠 Biscoito do Desaforo
+#### 🧪 Licença Poética
 
-Um aplicativo de biscoito da sorte que entrega **sarcasmo, sinceridade desnecessária e conselhos que ninguém pediu**.
+Experimentos de curso que sofreram alterações de personalidade durante o aprendizado.
 
-Começou numa aula de React Native do professor **Matheus Fraga**, na Udemy. Ele ensinou a fazer o biscoito. Eu apliquei minha **licença poética** e arruinei o atendimento.
+O professor ensina a aplicação. Eu acrescento sarcasmo, direção de arte e comportamentos que não estavam no planejamento pedagógico.
 
-Meu experimento com **React Native, Expo e JavaScript**, aprendendo componentes, estado e eventos enquanto uma bolacha questiona as escolhas de quem clica.
-
-> “Seu relacionamento precisa de diálogo. Mas você prefere consultar um carboidrato.”
->
-> ⚠️ Contém palavrões e humor ácido. A base veio da aula. O desaforo é autoral.
-
-[📂 **Explorar o projeto →**](https://github.com/maturbuk/Biscoito-do-desaforo) · [🥠 **Receber um desaforo →**](https://maturbuk.github.io/Biscoito-do-desaforo/)
-
+<sub>[📂 Visitar o laboratório →](https://github.com/maturbuk/Projetos-de-Cursos-VS-Licenca-Poetica)</sub>
 ---
 
 **A bagunça continua sendo organizada. Só que agora algumas coisas já têm README.**
