@@ -112,11 +112,11 @@ Nem tudo aqui vira software. Às vezes vira identidade visual, protótipo, siste
 </tr>
 </table>
 
-### ⭐ Algumas coisas que merecem um lugar aqui
+## ⭐ Algumas coisas que merecem um lugar aqui
 
 **Projetos, experimentos e ideias que foram longe demais para continuar escondidos em alguma pasta.**
 
-#### 🏙️ Ivaitá — SP
+### 🏙️ Ivaitá — SP
 
 Uma cidade fictícia do interior paulista que começou como um projeto de identidade visual e, em algum momento, ganhou **história, território, símbolos, patrimônio, campanhas, fotografia, audiovisual, UX/UI, plataforma digital e aplicativo próprio**.
 
@@ -126,7 +126,7 @@ Uma cidade fictícia do interior paulista que começou como um projeto de identi
 
 ---
 
-#### 📖 Teologia Reversa
+### 📖 Teologia Reversa
 
 Um estudo sobre **contradições, tensões narrativas e diferentes versões presentes nos textos bíblicos**, desenvolvido a partir de pesquisa, comparação de passagens e organização da informação.
 
@@ -139,7 +139,7 @@ Não é um projeto sobre dizer no que alguém deve acreditar — é sobre **olha
 
 ---
 
-#### 🧪 Licença Poética
+### 🧪 Licença Poética
 
 Experimentos de curso que sofreram alterações de personalidade durante o aprendizado.
 
