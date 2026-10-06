@@ -188,6 +188,23 @@ Não é um projeto sobre dizer no que alguém deve acreditar — é sobre **olha
 
 ---
 
+#### 🥠 Biscoito do Desaforo
+
+Um aplicativo de biscoito da sorte que entrega **sarcasmo, sinceridade desnecessária e conselhos que ninguém pediu**.
+
+Começou numa aula de React Native do professor **Matheus Fraga**, na Udemy. Ele ensinou a fazer o biscoito. Eu apliquei minha **licença poética** e arruinei o atendimento.
+
+Meu experimento com **React Native, Expo e JavaScript**, aprendendo componentes, estado e eventos enquanto uma bolacha questiona as escolhas de quem clica.
+
+> “Seu relacionamento precisa de diálogo. Mas você prefere consultar um carboidrato.”
+>
+> ⚠️ Contém palavrões e humor ácido. A base veio da aula. O desaforo é autoral.
+
+[📂 **Explorar o projeto →**](https://github.com/maturbuk/Biscoito-do-desaforo)  
+[🥠 **Receber um desaforo →**](https://maturbuk.github.io/Biscoito-do-desaforo/)
+
+---
+
 **A bagunça continua sendo organizada. Só que agora algumas coisas já têm README.**
 
 --- 
